@@ -2,6 +2,12 @@
 
 AIoT 課程專案 - 從中央氣象署 API 下載天氣資料，儲存至 SQLite 資料庫，並透過 Streamlit 視覺化呈現。
 
+## 🌐 線上 Demo
+
+**[🚀 立即體驗線上版本](https://aiotclassexercises01-1-lyasebxd2uy5pgz57hbagd.streamlit.app/)**
+
+> 線上版本部署於 Streamlit Cloud，可直接查看台灣溫度分布地圖與即時天氣資料。
+
 ## 📋 專案目標
 
 1. ✅ 下載中央氣象署 JSON 資料
